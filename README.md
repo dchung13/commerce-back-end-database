@@ -16,7 +16,9 @@
     
 This project allows a user to perform get, post, put, and delte requests to update a database.
     
-[Link to walkthrough video](https://drive.google.com/file/d/1jP-aGsUNbrCDHzfiCX3WPR86huisLy4M/view)
+[Link to walkthrough video](https://drive.google.com/file/d/1jP-aGsUNbrCDHzfiCX3WPR86huisLy4M/view)  
+
+![Screenshot of App](./Screenshot%202023-05-03%20234449.png)
     
 ## Installation
     
